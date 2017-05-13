@@ -1,0 +1,24 @@
+﻿extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  h2 List
+  table#mylist
+    tr
+      td Name
+      td StromProKopf
+      td StromProQM
+      td GasProKopf
+      td GasProQM
+      td OilProKopf
+      td OilProQM
+      td Actions
+  h2 Add
+  p Title:
+    input#title(type='text', name='title')
+  button#add-title Add!
+
+block scripts
+    script(src='http://code.jquery.com/jquery-1.9.1.js')
+    script(src='/javascripts/main.js')

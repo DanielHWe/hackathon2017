@@ -1,0 +1,54 @@
+﻿{
+	"branchen": [
+		{
+			"id": 1,
+			"name": "Buero",
+			"StromProKopf": "1",
+			"StromProQM": "1",
+			"GasProKopf": "1",
+			"GasProQM": "1",
+			"OilProKopf": "1",
+			"OilProQM": "1"
+		},
+		{
+			"id": 1,
+			"name": "Gastronomie",
+			"StromProKopf": "1",
+			"StromProQM": "1",
+			"GasProKopf": "1",
+			"GasProQM": "1",
+			"OilProKopf": "1",
+			"OilProQM": "1"
+		},
+		{
+			"id": 1,
+			"name": "Verwaltung",
+			"StromProKopf": "1",
+			"StromProQM": "1",
+			"GasProKopf": "1",
+			"GasProQM": "1",
+			"OilProKopf": "1",
+			"OilProQM": "1"
+		},
+		{
+			"id": 1,
+			"name": "Produzierend",
+			"StromProKopf": "1",
+			"StromProQM": "1",
+			"GasProKopf": "1",
+			"GasProQM": "1",
+			"OilProKopf": "1",
+			"OilProQM": "1"
+		}
+	],
+	"comments": [
+		{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
+}
